@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Tristan Galano
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on  
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python Flask
 
 <!---
 Tristan-Galano/Tristan-Galano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
