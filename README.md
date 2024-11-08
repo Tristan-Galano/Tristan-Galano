@@ -7,7 +7,7 @@ Aspiring Web Developer
 I graduated with a Bachelor of Information Technology. I have been doing Search Engine Optimization and Virtual assistance for two years now. However, I would like to do coding and I'm learning and actively looking for a related job.
 
 * 🌍  I'm based in Philippines
-* 🚀  I'm currently working on [Todo list App](http://github.com/Tristan-Galano/Todo_App)
+* 🚀  I'm currently working on [Basic Pos with Debt Tracking](https://github.com/Tristan-Galano/pos-with-debt-tracking)
 * 🧠  I'm learning Python Flask and VueJs
 * 🤝  I'm open to collaborating on Creating Website and games
 * ⚡  I love Cooking
