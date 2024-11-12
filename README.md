@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tristan Galano
 ======================================================================================================================================
 
-Aspiring Web Developer
+Web Developer
 ----------------------
 
 I graduated with a Bachelor of Information Technology. I have been doing Search Engine Optimization and Virtual assistance for two years now. However, I would like to do coding and I'm learning and actively looking for a related job.
